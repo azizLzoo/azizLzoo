@@ -12,6 +12,7 @@ J'apprécie aussi la manipulation des bases de données.
 
 Actuellement je travaille sur une application desktop en WinForms C#,
 ce qui me permet de combiner ces trois aspects que j'aime.
+Vous trouverez ci-dessus 2 projet en POO.
 
 J'aime autant travailler en équipe que de manière autonome.
 
