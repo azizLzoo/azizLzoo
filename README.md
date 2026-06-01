@@ -2,10 +2,26 @@
 
 🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Strasbourg)
 
-🔭 Je travaille actuellement sur des projets universitaires — de la POO en Java et une application desktop en C# (WinForms)
-- 🌱 J'apprends en ce moment le Java, le C#, le C et le SQL
-- 📫 Me contacter : zyachiniah@gmail.com
+🌱 J'apprends en ce moment le Java, le C#, le C et le SQL
+  
+## Moi en tant que développeur
 
+J'aime le C# et le Java, surtout quand il s'agit de réfléchir 
+à la logique derrière un programme tout en soignant l'interface.
+J'apprécie aussi la manipulation des bases de données.
+
+Actuellement je travaille sur une application desktop en WinForms C#,
+ce qui me permet de combiner ces trois aspects que j'aime.
+
+J'aime autant travailler en équipe que de manière autonome.
+
+## Ce que j'aimerai faire plus tard
+
+- Développeur Full-Stack 
+- Développeur Back-End
+- Développeur d'applications mobiles
+- Développeur d'applications de gestion
+  
 ## 🛠️ Langages & outils
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
