@@ -17,7 +17,7 @@ Vous trouverez ci-dessus 2 projet en POO.
 
 J'aime autant travailler en équipe que de manière autonome.
 
-## Ce que j'aimerai faire plus tard
+## Ce que j'aimerais faire plus tard
 
 - Développeur Full-Stack 
 - Développeur Back-End
@@ -35,8 +35,8 @@ J'aime autant travailler en équipe que de manière autonome.
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zya-chiniah-682739380)
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/522856539019542528)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zyachiniah@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azizlzoo67@gmail.com)
 
 
