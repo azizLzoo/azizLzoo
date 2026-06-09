@@ -1,4 +1,4 @@
-![Bannière de Aziz](https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/main/Capture-d’écran-du-2026-06-09-11-56-33.png)
+![Bannière de Aziz](https://raw.githubusercontent.com/ton-pseudo/ton-pseudo/main/banniere.png)
 ## Bonjour je suis aziz 👋
 
 🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Strasbourg)
