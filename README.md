@@ -1,4 +1,4 @@
-![Bannière de Aziz](https://raw.githubusercontent.com/azizLzoo/azizLzoo/main/banniere.png)
+![Bannière de Aziz](https://raw.githubusercontent.com/azizLzoo/azizLzoo/main/banniereUP.png)
 ## Bonjour je suis aziz 👋
 
 🎓 Étudiant en BUT Informatique à l'IUT Robert Schuman (Strasbourg)
